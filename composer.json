@@ -1,0 +1,8 @@
+{
+	"name"			: "MarkerClusterGroup",
+	"description"	: "Provides beautiful marker clustering functionality for Google Maps API v3",
+	"require": {
+        "php": ">=5.3.0"
+    }
+	
+}
